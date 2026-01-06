@@ -1,0 +1,13 @@
+2026-01-04 23:34:09,433 - Inventory management system - INFO - form started 
+2026-01-04 23:34:42,706 - Inventory management system - INFO - forget password clicked
+2026-01-04 23:35:22,115 - Inventory management system - INFO - Start creating the email with subject: Reset Password.
+2026-01-04 23:35:22,116 - Inventory management system - INFO - Attempt to add attachment without providing any.
+2026-01-04 23:35:22,117 - Inventory management system - INFO - Attempt to add attachment without providing any.
+2026-01-04 23:35:22,117 - Inventory management system - INFO - Email with subject: Reset Password... created successfully.
+2026-01-04 23:35:22,118 - Inventory management system - INFO - Starting the SMTP server smtp.gmail.com:587.
+2026-01-04 23:35:23,870 - Inventory management system - INFO - Logging into the email gogo8go789@gmail.com.
+2026-01-04 23:35:24,296 - Inventory management system - INFO - Sending the email to ['hamoud2ayman2002@gmail.com'].
+2026-01-04 23:35:25,619 - Inventory management system - INFO - Email sent successfully!
+2026-01-04 23:36:11,727 - Inventory management system - INFO - remember me is checked
+2026-01-04 23:36:46,474 - Inventory management system - INFO - remember me is checked
+2026-01-04 23:36:48,989 - Inventory management system - INFO - forget password clicked

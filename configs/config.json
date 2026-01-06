@@ -1,0 +1,25 @@
+{
+  "mailer": {
+    "server": "smtp.gmail.com",
+    "port": 587,
+    "username": "gogo8go789@gmail.com",
+    "password": "czvs vsyn vfcu mmci"
+
+  },
+  "database": {
+    "delicate": "postgresql",
+    "database": "postgres",
+    "host": "localhost",
+    "port": 5432,
+    "username": "postgres",
+    "password": "postgres",
+    "query": null,
+    "stream": false,
+    "echo": true,
+    "kerberos": null,
+    "pool_size": 20,
+    "max_overflow": 5,
+    "pool_timeout": 15,
+    "pool_recycle": 300
+  }
+}
